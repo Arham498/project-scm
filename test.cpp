@@ -5,7 +5,7 @@
 using namespace std;
 #define ll long long
 
-class hero{// aply 4 pil in this class ps BD
+class hero{
     //private
     private:
     int level;
