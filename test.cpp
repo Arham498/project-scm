@@ -81,7 +81,7 @@ void creation(hero *player){
     (*player).level_set(level);
     (*player).assambale();
 }
-int rooladice(){
+int rooladice(){//archita's part
     int number;
     srand(time(0));
     number = (rand() % 6) + 1;
